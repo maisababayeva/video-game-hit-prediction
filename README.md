@@ -107,4 +107,3 @@ video-game-hit-prediction/
 | Maisa Babayeva | 18079 |
 | Shabnam Shirinova | 16236 |
 | Vasif Maharramli | 18061 |
-EOF
