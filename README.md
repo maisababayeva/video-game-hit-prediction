@@ -102,8 +102,6 @@ video-game-hit-prediction/
 
 **CSCI4734 – Machine Learning | Fall 2025 | ADA University**
 
-| Name | Student ID |
-|---|---|
-| Maisa Babayeva | 18079 |
-| Shabnam Shirinova | 16236 |
-| Vasif Maharramli | 18061 |
+- Maisa Babayeva
+- Shabnam Shirinova
+- Vasif Maharramli
